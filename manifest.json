@@ -1,0 +1,15 @@
+{
+    "theme_color" : "#f69435",
+    "background_color" : "#f69435",
+    "display" : "standalone",
+    "scope" : "/",
+    "start_url" : "/",
+    "name" : "dangue",
+    "short_name" : "dangue",
+    "icons": [
+      {
+        "src": "./assets/img/hospital.png",
+        "type": "image/png",
+        "sizes": "300x300"
+      }]
+    }
